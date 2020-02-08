@@ -1,1 +1,2 @@
-# common
+# common classes to build applications
+
